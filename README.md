@@ -76,7 +76,7 @@ This project offers a practical solution for creating a mini refrigerator using 
 
 ### Images and Resources
 
-- **Setup Diagram:** :blue_book: [Setup Diagram](https://github.com/sidortal/Building-Fridge-Using-Thermoelectric-Module/blob/main/Setup_Diagram.png)
+- **Setup Diagram:** :blue_book: [Setup Diagram](https://github.com/sidortal/OBB-Expansion/blob/main/1Thermo.gif)
 - **Working Diagram:** :blue_book: [Working Diagram](https://github.com/sidortal/OBB-Expansion/blob/main/thermoeletric.gif)
 
 ### Quick Jokes for Fridge Building :laughing:
